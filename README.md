@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajatLakhera
-- 👀 I’m interested in Quantum Physics, Astrophysics and GR
-- 🌱 I’m currently learning LaTeX and Python
+- 👀 I’m interested in Quantum Physics
+- 🌱 I’m currently learning Computational Physics and Quantum Computing
 - 💞️ I’m looking to collaborate on research projects in Physics
 - 📫 You can mail me at rajatlakhera048@gmail.com
 
